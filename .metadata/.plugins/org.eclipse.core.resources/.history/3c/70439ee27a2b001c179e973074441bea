@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package helloworldaula1;
+
+/**
+ * @author truma
+ *
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
