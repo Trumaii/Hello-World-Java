@@ -1,13 +1,13 @@
 /**
  * 
  */
-package helloworldaula1;
+package exercicio2;
 
 /**
  * @author truma
  *
  */
-public class HelloWorld {
+public class ExerciciodeJava {
 
 	/**
 	 * @param args
